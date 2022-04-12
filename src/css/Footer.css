@@ -1,0 +1,36 @@
+.footercontainer{
+    height: 35vh;
+    background-color: black;
+}
+.footerrow{
+    margin-top: 40px;
+    max-width: fit-content;
+    justify-content: flex-start;
+    display: inline-block;
+}
+.footer-col-1 p{
+color: whitesmoke;
+}
+.footer-col-1, .footer-col-2, .footer-col-3{
+    display: inline-block;
+    padding-left: 8vw;
+}
+.footer-col-2 h3, .footer-col-3 h3, .footer-col-2 ul li Link{
+    color: whitesmoke;
+}
+.footer-col-2 h3, .footer-col-3 h3{
+    margin-left: -25px;
+}
+.footer-col-2 li, .footer-col-3 li{
+    margin-left: -20px;
+    list-style-type: none;
+    text-decoration: none;
+    color: whitesmoke;
+}
+.copyright{
+    margin-top: 10px;
+    margin-left: 40vw;
+}
+.copyright p{
+   color: whitesmoke;
+}
